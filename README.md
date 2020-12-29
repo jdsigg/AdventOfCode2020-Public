@@ -1,7 +1,5 @@
 # AdventOfCode2020
-My AOC 2020 solutions and attempts
-
-Goal: Solve as many problems as possible with the best runtime I can think of.
+My AOC 2020 solutions
 
 Hard Problems:  
 - Day 10 Problem 2
